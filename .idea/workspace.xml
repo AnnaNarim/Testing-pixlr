@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d29c1fb-c0e7-4f74-923b-5f769a2962c3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="18" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZuUIxJF12mdgsbVF2wKRInxgv0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunManager" selected="JUnit.LoginTest.testSuccessfulPlans">
+    <configuration name="LoginTest.testFailedLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW_3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <option name="METHOD_NAME" value="testFailedLogin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.testSuccessfulLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW_3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <option name="METHOD_NAME" value="testSuccessfulLogin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.testSuccessfulLoginFromHome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW_3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <option name="METHOD_NAME" value="testSuccessfulLoginFromHome" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.testSuccessfulPlans" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW_3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <option name="METHOD_NAME" value="testSuccessfulPlans" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.testSuccessfulProfilePage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW_3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <option name="METHOD_NAME" value="testSuccessfulProfilePage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.LoginTest.testFailedLogin" />
+      <item itemvalue="JUnit.LoginTest.testSuccessfulProfilePage" />
+      <item itemvalue="JUnit.LoginTest.testSuccessfulPlans" />
+      <item itemvalue="JUnit.LoginTest.testSuccessfulLoginFromHome" />
+      <item itemvalue="JUnit.LoginTest.testSuccessfulLogin" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LoginTest.testSuccessfulPlans" />
+        <item itemvalue="JUnit.LoginTest.testSuccessfulProfilePage" />
+        <item itemvalue="JUnit.LoginTest.testSuccessfulLoginFromHome" />
+        <item itemvalue="JUnit.LoginTest.testSuccessfulLogin" />
+        <item itemvalue="JUnit.LoginTest.testFailedLogin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d29c1fb-c0e7-4f74-923b-5f769a2962c3" name="Default Changelist" comment="" />
+      <created>1585688396886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585688396886</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="270" y="84" key="#Project_Structure" timestamp="1587748636349">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="240" y="77" key="#Project_Structure/0.23.1280.777@0.23.1280.777" timestamp="1586103215230" />
+    <state x="270" y="84" key="#Project_Structure/0.23.1440.877/-257.-1177.1920.1177@0.23.1440.877" timestamp="1587748636349" />
+    <state x="295" y="111" key="#WebDriverHelloWorld" timestamp="1587748298722">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="295" y="95" key="#WebDriverHelloWorld.WebDriverHelloWordTest" timestamp="1587748318681">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="295" y="95" key="#WebDriverHelloWorld.WebDriverHelloWordTest/0.23.1440.877/-257.-1177.1920.1177@0.23.1440.877" timestamp="1587748318681" />
+    <state x="295" y="111" key="#WebDriverHelloWorld/0.23.1440.877/-257.-1177.1920.1177@0.23.1440.877" timestamp="1587748298722" />
+    <state x="190" y="108" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587748328678">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="169" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.777@0.23.1280.777" timestamp="1586174031004" />
+    <state x="190" y="103" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.830@0.23.1440.830" timestamp="1585703049649" />
+    <state x="190" y="108" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/-257.-1177.1920.1177@0.23.1440.877" timestamp="1587748328678" />
+    <state x="453" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1587807244367">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="453" y="128" key="#com.intellij.ide.util.MemberChooser/0.23.1280.777@0.23.1280.777" timestamp="1587807244367" />
+    <state x="442" y="226" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586174018843">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="442" y="226" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1280.777@0.23.1280.777" timestamp="1586174018843" />
+    <state x="399" y="280" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1586111248607">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="399" y="280" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1280.777@0.23.1280.777" timestamp="1586111248607" />
+    <state width="1513" height="161" key="GridCell.Tab.0.bottom" timestamp="1589371590331">
+      <screen x="-257" y="-1177" width="1920" height="1177" />
+    </state>
+    <state width="1238" height="169" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1588794012847" />
+    <state width="1398" height="167" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1585729336926" />
+    <state width="1398" height="202" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1585704067701" />
+    <state width="1398" height="240" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1585702655776" />
+    <state width="1398" height="27" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1585901713853" />
+    <state width="1398" height="190" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1585877361060" />
+    <state width="1398" height="192" key="GridCell.Tab.0.bottom/0.23.1440.836@0.23.1440.836" timestamp="1585876076369" />
+    <state width="1398" height="192" key="GridCell.Tab.0.bottom/0.23.1440.837@0.23.1440.837" timestamp="1585875254027" />
+    <state width="1398" height="27" key="GridCell.Tab.0.bottom/0.23.1440.838@0.23.1440.838" timestamp="1586048862563" />
+    <state width="1398" height="217" key="GridCell.Tab.0.bottom/0.23.1440.841@0.23.1440.841" timestamp="1586099566247" />
+    <state width="1513" height="161" key="GridCell.Tab.0.bottom/0.23.1440.877/-257.-1177.1920.1177@-257.-1177.1920.1177" timestamp="1589371590331" />
+    <state width="1513" height="305" key="GridCell.Tab.0.bottom/0.23.1440.877/-257.-1177.1920.1177@0.23.1440.877" timestamp="1589368096919" />
+    <state width="1398" height="284" key="GridCell.Tab.0.bottom/0.23.1440.877/63.-1001.1280.1001@0.23.1440.877" timestamp="1586181421552" />
+    <state width="1513" height="161" key="GridCell.Tab.0.center" timestamp="1589371590328">
+      <screen x="-257" y="-1177" width="1920" height="1177" />
+    </state>
+    <state width="1238" height="169" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1588794012847" />
+    <state width="1398" height="167" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1585729336925" />
+    <state width="1398" height="202" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1585704067699" />
+    <state width="1398" height="240" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1585702655775" />
+    <state width="1398" height="27" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1585901713845" />
+    <state width="1398" height="190" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1585877361059" />
+    <state width="1398" height="192" key="GridCell.Tab.0.center/0.23.1440.836@0.23.1440.836" timestamp="1585876076369" />
+    <state width="1398" height="192" key="GridCell.Tab.0.center/0.23.1440.837@0.23.1440.837" timestamp="1585875254026" />
+    <state width="1398" height="27" key="GridCell.Tab.0.center/0.23.1440.838@0.23.1440.838" timestamp="1586048862562" />
+    <state width="1398" height="217" key="GridCell.Tab.0.center/0.23.1440.841@0.23.1440.841" timestamp="1586099566246" />
+    <state width="1513" height="161" key="GridCell.Tab.0.center/0.23.1440.877/-257.-1177.1920.1177@-257.-1177.1920.1177" timestamp="1589371590328" />
+    <state width="1513" height="305" key="GridCell.Tab.0.center/0.23.1440.877/-257.-1177.1920.1177@0.23.1440.877" timestamp="1589368096917" />
+    <state width="1398" height="284" key="GridCell.Tab.0.center/0.23.1440.877/63.-1001.1280.1001@0.23.1440.877" timestamp="1586181421551" />
+    <state width="1513" height="161" key="GridCell.Tab.0.left" timestamp="1589371590327">
+      <screen x="-257" y="-1177" width="1920" height="1177" />
+    </state>
+    <state width="1238" height="169" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1588794012846" />
+    <state width="1398" height="167" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1585729336925" />
+    <state width="1398" height="202" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1585704067699" />
+    <state width="1398" height="240" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1585702655775" />
+    <state width="1398" height="27" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1585901713841" />
+    <state width="1398" height="190" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1585877361059" />
+    <state width="1398" height="192" key="GridCell.Tab.0.left/0.23.1440.836@0.23.1440.836" timestamp="1585876076368" />
+    <state width="1398" height="192" key="GridCell.Tab.0.left/0.23.1440.837@0.23.1440.837" timestamp="1585875254020" />
+    <state width="1398" height="27" key="GridCell.Tab.0.left/0.23.1440.838@0.23.1440.838" timestamp="1586048862562" />
+    <state width="1398" height="217" key="GridCell.Tab.0.left/0.23.1440.841@0.23.1440.841" timestamp="1586099566246" />
+    <state width="1513" height="161" key="GridCell.Tab.0.left/0.23.1440.877/-257.-1177.1920.1177@-257.-1177.1920.1177" timestamp="1589371590327" />
+    <state width="1513" height="305" key="GridCell.Tab.0.left/0.23.1440.877/-257.-1177.1920.1177@0.23.1440.877" timestamp="1589368096917" />
+    <state width="1398" height="284" key="GridCell.Tab.0.left/0.23.1440.877/63.-1001.1280.1001@0.23.1440.877" timestamp="1586181421551" />
+    <state width="1513" height="161" key="GridCell.Tab.0.right" timestamp="1589371590329">
+      <screen x="-257" y="-1177" width="1920" height="1177" />
+    </state>
+    <state width="1238" height="169" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1588794012847" />
+    <state width="1398" height="167" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1585729336926" />
+    <state width="1398" height="202" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1585704067700" />
+    <state width="1398" height="240" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1585702655775" />
+    <state width="1398" height="27" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1585901713848" />
+    <state width="1398" height="190" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1585877361060" />
+    <state width="1398" height="192" key="GridCell.Tab.0.right/0.23.1440.836@0.23.1440.836" timestamp="1585876076369" />
+    <state width="1398" height="192" key="GridCell.Tab.0.right/0.23.1440.837@0.23.1440.837" timestamp="1585875254026" />
+    <state width="1398" height="27" key="GridCell.Tab.0.right/0.23.1440.838@0.23.1440.838" timestamp="1586048862562" />
+    <state width="1398" height="217" key="GridCell.Tab.0.right/0.23.1440.841@0.23.1440.841" timestamp="1586099566247" />
+    <state width="1513" height="161" key="GridCell.Tab.0.right/0.23.1440.877/-257.-1177.1920.1177@-257.-1177.1920.1177" timestamp="1589371590329" />
+    <state width="1513" height="305" key="GridCell.Tab.0.right/0.23.1440.877/-257.-1177.1920.1177@0.23.1440.877" timestamp="1589368096918" />
+    <state width="1398" height="284" key="GridCell.Tab.0.right/0.23.1440.877/63.-1001.1280.1001@0.23.1440.877" timestamp="1586181421552" />
+    <state width="1513" height="327" key="GridCell.Tab.1.bottom" timestamp="1589371080671">
+      <screen x="-257" y="-1177" width="1920" height="1177" />
+    </state>
+    <state width="1238" height="245" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1588790781386" />
+    <state width="1513" height="327" key="GridCell.Tab.1.bottom/0.23.1440.877/-257.-1177.1920.1177@-257.-1177.1920.1177" timestamp="1589371080671" />
+    <state width="1238" height="245" key="GridCell.Tab.1.bottom/0.23.1440.877/-257.-1177.1920.1177@0.23.1440.877" timestamp="1586873924936" />
+    <state width="1513" height="327" key="GridCell.Tab.1.center" timestamp="1589371080670">
+      <screen x="-257" y="-1177" width="1920" height="1177" />
+    </state>
+    <state width="1238" height="245" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1588790781384" />
+    <state width="1513" height="327" key="GridCell.Tab.1.center/0.23.1440.877/-257.-1177.1920.1177@-257.-1177.1920.1177" timestamp="1589371080670" />
+    <state width="1238" height="245" key="GridCell.Tab.1.center/0.23.1440.877/-257.-1177.1920.1177@0.23.1440.877" timestamp="1586873924933" />
+    <state width="1513" height="327" key="GridCell.Tab.1.left" timestamp="1589371080669">
+      <screen x="-257" y="-1177" width="1920" height="1177" />
+    </state>
+    <state width="1238" height="245" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1588790781384" />
+    <state width="1513" height="327" key="GridCell.Tab.1.left/0.23.1440.877/-257.-1177.1920.1177@-257.-1177.1920.1177" timestamp="1589371080669" />
+    <state width="1238" height="245" key="GridCell.Tab.1.left/0.23.1440.877/-257.-1177.1920.1177@0.23.1440.877" timestamp="1586873924932" />
+    <state width="1513" height="327" key="GridCell.Tab.1.right" timestamp="1589371080671">
+      <screen x="-257" y="-1177" width="1920" height="1177" />
+    </state>
+    <state width="1238" height="245" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1588790781385" />
+    <state width="1513" height="327" key="GridCell.Tab.1.right/0.23.1440.877/-257.-1177.1920.1177@-257.-1177.1920.1177" timestamp="1589371080671" />
+    <state width="1238" height="245" key="GridCell.Tab.1.right/0.23.1440.877/-257.-1177.1920.1177@0.23.1440.877" timestamp="1586873924933" />
+    <state x="356" y="111" key="Maven.ArtifactSearchDialog" timestamp="1588786977216">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="356" y="111" key="Maven.ArtifactSearchDialog/0.23.1280.777@0.23.1280.777" timestamp="1588786977216" />
+    <state x="0" y="23" key="SettingsEditor" timestamp="1588789840244">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="0" y="23" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1588789840244" />
+    <state x="355" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1589297330418">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="355" y="256" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1589297330418" />
+    <state x="399" y="274" key="com.intellij.ide.util.TipDialog/0.23.1440.838@0.23.1440.838" timestamp="1586099243631" />
+    <state x="399" y="286" key="com.intellij.ide.util.TipDialog/0.23.1440.877/-257.-1177.1920.1177@0.23.1440.877" timestamp="1586874195029" />
+    <state x="386" y="80" width="667" height="763" key="find.popup" timestamp="1587383292494">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="386" y="77" width="667" height="729" key="find.popup/0.23.1440.838@0.23.1440.838" timestamp="1586099311222" />
+    <state x="386" y="80" width="667" height="763" key="find.popup/0.23.1440.877/-257.-1177.1920.1177@0.23.1440.877" timestamp="1587383292494" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1588785020938">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1280.777@0.23.1280.777" timestamp="1588785020938" />
+    <state x="385" y="205" width="670" height="675" key="run.anything.popup" timestamp="1586180920594">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="205" width="670" height="675" key="run.anything.popup/0.23.1440.877/63.-1001.1280.1001@0.23.1440.877" timestamp="1586180920594" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CS230_AUA_JUnit$AssertionsTestExample_dependentAssertions.ic" NAME="AssertionsTestExample.dependentAssertions Coverage Results" MODIFIED="1586112604836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/CS230_AUA_JUnit$WebDriverHelloWorld_WebDriverHelloWordTest.ic" NAME="WebDriverHelloWorld.WebDriverHelloWordTest Coverage Results" MODIFIED="1586113182694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.seleniumwebdriver.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/CS230_AUA_JUnit$CalculatorTests.ic" NAME="CalculatorTests Coverage Results" MODIFIED="1586112714292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/CS230_AUA_JUnit$WebElementInteractions.ic" NAME="WebElementInteractions Coverage Results" MODIFIED="1586112675178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.seleniumwebdriver.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/HW_3$AssertionsTestExample_groupedAssertions.ic" NAME="AssertionsTestExample.groupedAssertions Coverage Results" MODIFIED="1587748278098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.*</FILTER>
+    </SUITE>
+  </component>
+</project>
